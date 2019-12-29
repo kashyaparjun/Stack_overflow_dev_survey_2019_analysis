@@ -33,7 +33,7 @@ There is one iPython notebook available here to showcase work related to the abo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can also be found at the post available [here](https://google.com).
+The main findings of the code can also be found [here](https://github.com/kashyaparjun/Stack_overflow_dev_survey_2019_analysis/blob/master/Stack_overflow_dev_survey_analysis.ipynb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
