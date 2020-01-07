@@ -50,7 +50,7 @@ Findings:
 3. Location plays a major role in developer income.
 4. Experienced developers get paid more.
 
-You can find more results [here](https://medium.com/@iamask09/does-your-location-affect-your-income-stack-overflow-developer-survey-2019-analysis-920872b07c31).
+You can find more results in the Medium article [here](https://medium.com/@iamask09/does-your-location-affect-your-income-stack-overflow-developer-survey-2019-analysis-920872b07c31).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
